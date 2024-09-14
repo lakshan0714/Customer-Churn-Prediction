@@ -1,0 +1,10 @@
+Imported churn dataset.
+
+removed customer Id 
+convert string value into numeric
+Replaced all boolen values into 1 and 0
+converted some columns into dummy columns and change True =1 ,False=0
+
+
+Model Training
+-model got overfitting
